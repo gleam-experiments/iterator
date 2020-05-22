@@ -1,7 +1,6 @@
 # gleam_iterator
 
-
-A Gleam program
+This code has been merged into the Gleam standard library! :)
 
 
 ## Quick start
